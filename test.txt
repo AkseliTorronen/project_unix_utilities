@@ -1,0 +1,19 @@
+a
+few lines
+in 
+this file 
+to test yikes
+these
+programs
+Adding some more lines just to test grep
+it's not that easy to 
+come up with new lines
+so I will repeat line
+so I will repeat line
+so I will repeat line
+so I will repeat line
+yikesss
+empty line after this
+
+empty line before this
+.
